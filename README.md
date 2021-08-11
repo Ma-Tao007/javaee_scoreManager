@@ -1,4 +1,7 @@
 # javaee_scoreManager
+源码已收录【java项目源码】，需要源码的请自行关注下方二维码下载！
+![java项目源码](./运行截图/wechat.png)
+
 基于javaee的成绩管理系统（serlvet+jsp+mysql）
 javaEE学生成绩管理系统
 框架：jsp+servlet+mysql+tomcat+layui+jquery+ajax
@@ -30,5 +33,4 @@ javaEE学生成绩管理系统
 
 4.右键项目运行
 
-源码已收录【java项目源码】，需要源码的请自行关注下方二维码下载！
-![java项目源码](./运行截图/wechat.png)
+
