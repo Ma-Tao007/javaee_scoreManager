@@ -1,5 +1,5 @@
 # javaee_scoreManager
-源码已收录【java项目源码】，需要源码的请自行关注下方二维码下载！
+源码已收录微信公众号【java项目源码】，需要源码的请自行关注下方二维码下载！
 ![java项目源码](./运行截图/wechat.png)
 
 基于javaee的成绩管理系统（serlvet+jsp+mysql）
