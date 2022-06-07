@@ -1,6 +1,11 @@
 # javaee_scoreManager
-源码已收录微信公众号【java项目源码】，需要源码的请自行关注下方二维码下载！
-![java项目源码](./运行截图/wechat.png)
+
+CSDN博客地址：https://blog.csdn.net/mataodehtml/article/details/111983368
+
+B站运行视频：暂无
+
+项目下载地址：http://www.shiyuncode.com/details?id=21
+
 
 基于javaee的成绩管理系统（serlvet+jsp+mysql）
 javaEE学生成绩管理系统
